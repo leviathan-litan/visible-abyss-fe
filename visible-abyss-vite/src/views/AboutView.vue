@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-import { useCounterStore } from '@/stores/modules/counter';
+import { useCounterStore } from "@/stores/modules/counter";
 const counter = useCounterStore();
 </script>
 

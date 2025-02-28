@@ -1,4 +1,4 @@
-import type { App } from 'vue'
+import type { App } from "vue"
 
 // 导入组件库 Ant Design Vue
 import Antd  from 'ant-design-vue'
