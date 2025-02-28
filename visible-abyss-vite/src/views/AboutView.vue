@@ -4,7 +4,7 @@
 
     <h2>{{ counter.count }}</h2>
 
-    <button @click="counter.increment">Increment</button>
+    <a-button type="primary" @click="counter.increment">Increment</a-button>
   </div>
 </template>
 
